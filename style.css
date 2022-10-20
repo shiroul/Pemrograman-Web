@@ -1,0 +1,89 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    text-align: center;
+}
+
+
+
+
+   
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 15pt;
+    color: #20bcd5;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 15pt;
+    color: #020202;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 15pt;
+    color: #0c0c0c;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+table,
+th,
+td {
+    border: 2px solid #cecece;
+    border-collapse: separate;
+    text-align: center;
+    table-layout: fixed;
+}
+
+table {
+    width: 100%;
+}
+
+.selected {
+    background-color: #f36f48;
+    font-weight: bolder;
+    color: white;
+}
+
+div {
+    text-align: center;
+}
+
